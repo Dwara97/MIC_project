@@ -103,4 +103,10 @@ Feature importance from the trained model backed up the correlation analysis —
 
 ## Screenshots
 
-*(Chart screenshots to be added here)*
+![Price Distribution](vis1.png)
+![Price Distribution_detailed](vis2.png)
+![Price by Airline](vis3.png)
+![Price by Total Stops](vis4.png)
+![Price vs Days Before Departure](vis5.png)
+![Correlation Heatmap](vis6.png)
+![The important features used by the LLM Model](vis7.png)
