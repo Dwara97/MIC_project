@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is my submission for the MIC AIML Department Recruitment Challenge (Data Science & Visualization track). The goal was to dig into a flight pricing dataset, figure out what actually drives ticket prices, and build a model that can predict prices based on flight details.
+HI I'm Sridwarakesh and this is my submission for the MIC AIML Department Recruitment Challenge (Data Science & Visualization track). The goal was to dig into a flight pricing dataset, figure out what actually drives ticket prices, and build a model that can predict prices based on flight details.
 
 I went with the flight pricing dataset provided for this challenge, and honestly, most of the real work here wasn't the modeling — it was the data cleaning. The dataset was intentionally messy (I'm guessing on purpose, to test how we handle real-world data), and untangling it taught me more than the modeling step did.
 
